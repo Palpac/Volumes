@@ -11,6 +11,8 @@ AudioManager.STREAM_VOICE_CALL,
 AudioManager.STREAM_ACCESSIBILITY, 
 AudioManager.STREAM_DTMF, 
 AudioManager.STREAM_SYSTEM, 
+
+Fiche Google Play : https://play.google.com/store/apps/details?id=palpac.volumes
  
 API16, 
 Java, 
